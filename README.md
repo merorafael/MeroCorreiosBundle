@@ -6,7 +6,7 @@ MeroCorreiosBundle
 [![Total Downloads](https://poser.pugx.org/mero/correios-bundle/downloads.svg)](https://packagist.org/packages/mero/correios-bundle) 
 [![License](https://poser.pugx.org/mero/correios-bundle/license.svg)](https://packagist.org/packages/mero/correios-bundle)
 
-Bundle for Symfony with Correios integration
+Symfony Bundle with Correios integration
 
 Requirements
 ------------

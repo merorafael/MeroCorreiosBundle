@@ -1,7 +1,7 @@
 {
   "name": "mero/correios-bundle",
   "type": "symfony-bundle",
-  "description": "Bundle with additional features for Symfony.",
+  "description": "Symfony Bundle with Correios integration",
   "keywords": [ "SF", "Symfony", "Mero", "Correios", "Brazil" ],
   "homepage": "https://github.com/merorafael/MeroCorreiosBundle",
   "license": "MIT",
