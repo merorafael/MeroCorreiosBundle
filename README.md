@@ -1,6 +1,11 @@
 MeroCorreiosBundle
 ==================
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/67c1e408-3d2f-434d-87c9-f4b2e6b333dd/mini.png)](https://insight.sensiolabs.com/projects/67c1e408-3d2f-434d-87c9-f4b2e6b333dd)
+[![Latest Stable Version](https://poser.pugx.org/mero/correios-bundle/v/stable.svg)](https://packagist.org/packages/mero/correios-bundle) 
+[![Total Downloads](https://poser.pugx.org/mero/correios-bundle/downloads.svg)](https://packagist.org/packages/mero/correios-bundle) 
+[![License](https://poser.pugx.org/mero/correios-bundle/license.svg)](https://packagist.org/packages/mero/correios-bundle)
+
 Bundle for Symfony with Correios integration
 
 Requirements
