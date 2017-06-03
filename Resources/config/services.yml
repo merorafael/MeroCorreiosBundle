@@ -1,0 +1,3 @@
+services:
+    mero_correios.client:
+        class: Mero\Correios\Client

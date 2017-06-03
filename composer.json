@@ -1,0 +1,46 @@
+{
+  "name": "mero/correios-bundle",
+  "type": "symfony-bundle",
+  "description": "Bundle with additional features for Symfony.",
+  "keywords": [ "SF", "Symfony", "Mero", "Correios", "Brazil" ],
+  "homepage": "https://github.com/merorafael/MeroCorreiosBundle",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/merorafael/MeroCorreiosBundle/issues",
+    "source": "https://github.com/merorafael/MeroCorreiosBundle"
+  },
+  "authors": [
+    {
+      "name": "Rafael Mello",
+      "email": "merorafael@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.9",
+    "symfony/framework-bundle": "~2.8|~3.0|~4.0",
+    "mero/correios": "^0.1"
+  },
+  "require-dev": {
+    "symfony/symfony": "~2.8",
+    "satooshi/php-coveralls": "~1.0",
+    "phpunit/phpunit": "~4.4"
+  },
+  "suggest": {
+    "mero/telegram-handler": "Monolog handler to send log via Telegram",
+    "mero/base-bundle": "Bundle for Symfony with Correios integration",
+    "mero/br-validator-bundle": "Bundle for Symfony with validators for Brazilian location"
+  },
+  "autoload": {
+    "psr-4": {"Mero\\Bundle\\CorreiosBundle\\": ""}
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    }
+  },
+  "scripts": {
+    "test": [
+      "./vendor/bin/phpunit -c phpunit.xml.dist"
+    ]
+  }
+}
