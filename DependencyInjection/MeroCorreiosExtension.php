@@ -1,6 +1,6 @@
 <?php
 
-namespace Mero\Bundle\BaseBundle\DependencyInjection;
+namespace Mero\Bundle\CorreiosBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
